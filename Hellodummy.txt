@@ -1,1 +1,3 @@
 Test dummy added from Hellodummy.text
+
+2nd line added from txt file
